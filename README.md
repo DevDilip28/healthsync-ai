@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="./preview.png" width="900">
-</p>
-
-
 # ⚕️ HealthSync AI
 
 HealthSync AI is a clinical decision support system that uses machine learning to predict possible medical conditions based on user-selected symptoms.
 
 This project was developed as part of an AICTE virtual internship and focuses on combining AI, healthcare concepts, and modern UI design into a practical application.
+
+<p align="center">
+  <img src="./preview.png" width="900">
+</p>
 
 ---
 
