@@ -43,17 +43,6 @@ This project was developed as part of an AICTE virtual internship and focuses on
 
 ---
 
-## 📂 Project Structure
-
-healthsync-ai/
-│
-├── app.py # Main Streamlit application
-├── train_model.py # Model training script
-├── model.pkl # Trained ML model
-├── requirements.txt
-└── README.md
-
----
 
 ## ⚠️ Disclaimer
 
